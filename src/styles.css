@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.button {
+  font-size: 10px;
+  font-weight: bold;
+  border: 1px solid black;
+  margin: 1rem 0.3rem;
+  border-radius: 0.5rem;
+  width: 100px;
+  height: 30px;
+  background-color: #e5e7eb;
+}
+.list-div {
+  padding: 1rem;
+  border: 1px solid #d1d5db;
+  width: 30vh;
+  margin: 1rem 0rem;
+  border-radius: 0.5rem;
+  background-color: #d1d5db;
+}
